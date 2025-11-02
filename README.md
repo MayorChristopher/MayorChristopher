@@ -1,30 +1,42 @@
-# Hi, I'm Mayor 👋
+# Hi, I'm Mayor Christopher 👋
 
-**Full-Stack Developer** from Nigeria 🇳🇬
+**Full-Stack Web Developer** from Nigeria | Self-Taught | 4 Years Building
 
-## 🛠️ Tech Stack
+I create web applications with modern technologies and contribute to open-source projects that matter.
 
-**Frontend:** React • Next.js • TypeScript • JavaScript • Tailwind CSS  
+## 🚀 Currently Working On
+
+- Contributing to **[tscircuit](https://github.com/tscircuit)** - Building circuit design tools where hardware meets software
+- Developing my portfolio with Next.js (work in progress)
+- Deepening my knowledge of TypeScript and advanced React patterns
+
+## 💻 Tech Stack
+
+**Frontend:** React • Next.js • TypeScript • JavaScript • HTML • CSS  
 **Backend:** Node.js • Express  
-**Database:** MySQL • PostgreSQL • Supabase  
-**Tools:** Git • GitHub • Vercel
+**Tools:** Git • GitHub • VS Code
 
-## 🚀 What I Do
+## 🎯 Recent Contributions
 
-- Build modern web applications
-- Contribute to open-source projects
-- Solve real-world problems through code
+**ViaGridBoard Implementation**  
+Built a ViaGrid-compatible prototyping board component with standard sizes and proper specifications for tscircuit
 
-## 📊 GitHub Stats
+**Trace Overlap Solver**  
+Fixed schematic trace routing issues to minimize crossings and improve circuit layouts
+
+**Open Source**  
+Active contributor to circuit design tooling and web development projects
+
+## 📫 Let's Connect
+
+**Email:** mayoru24@gmail.com  
+**Portfolio:** [View Project](https://github.com/MayorChristopher/Portfolio-with-next) *(in development)*  
+**Location:** Nigeria 🇳🇬
+
+## 📊 GitHub Activity
 
 ![Mayor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayorChristopher&show_icons=true&theme=dark)
 
-## 📫 Connect
-
-- **Email:** mayoru24@gmail.com
-- **GitHub:** [@MayorChristopher](https://github.com/MayorChristopher)
-- **Facebook:** [Mayor Christopher](https://web.facebook.com/mayor.christopher.14/)
-
 ---
 
-💻 Currently working on open-source contributions and building cool stuff!
+💡 *Always learning, always building, always improving*
