@@ -1,6 +1,6 @@
 # Hi, I'm Mayor Christopher 👋
 
-**Full-Stack Web Developer** from Nigeria | Self-Taught | 4 Years Building
+**Full-Stack Web Developer** from Nigeria | Self-Taught | 5 Years Building
 
 I create web applications with modern technologies and contribute to open-source projects that matter.
 
